@@ -1,0 +1,18 @@
+[
+  {
+    "id": "hero",
+    "type": "hero",
+    "metadata": {
+      "name": "Md. Jahid Hassan",
+      "title": "ASP.NET Developer | MSSQL Expert | Data & Business Analyst | Power BI, Tableau, Looker Specialist | Excel Pro",
+      "subtitle": "I’m Md. Jahid Hassan, a skilled Business Analyst and ASP.NET Developer with expertise in turning complex business needs into efficient digital solutions. Proficient in Power BI, C#/.NET, SQL, and data visualization, I design automated reports, streamline processes, and build scalable applications that drive smarter decisions and business growth.",
+      "profileImage": "https://i.imgur.com/qOGpTfu.jpeg",
+      "primaryCta": "View My Work",
+      "primaryCtaLink": "/projects",
+      "secondaryCta": "Contact Me",
+      "secondaryCtaLink": "/about"
+    },
+    "content": "<h1>Hero Section</h1>\n<p>This is the hero section of my personal portfolio website. The content here will be displayed prominently at the top of the homepage.</p>\n<h2>Key Features</h2>\n<ul>\n<li>Professional introduction</li>\n<li>Brief overview of my expertise</li>\n<li>Call-to-action buttons for portfolio exploration</li>\n<li>Professional profile image</li>\n</ul>\n",
+    "rawContent": "\r\n# Hero Section\r\n\r\nThis is the hero section of my personal portfolio website. The content here will be displayed prominently at the top of the homepage.\r\n\r\n## Key Features\r\n\r\n- Professional introduction\r\n- Brief overview of my expertise\r\n- Call-to-action buttons for portfolio exploration\r\n- Professional profile image\r\n"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "neural-image-analyzer",
+  "type": "projects",
+  "metadata": {
+    "title": "Neural Image Analyzer",
+    "date": "2024-01-15",
+    "summary": "A high-performance tool for automated analysis...",
+    "image": "/images/projects/neural-image-analyzer.jpg",
+    "tag": "Machine Learning, Python, Research Tools",
+    "featured": "yes",
+    "github": "https://github.com/digin1/neural-image-analyzer",
+    "demo": "https://demo.neural-image-analyzer.com"
+  },
+  "content": "<h1>Neural Image Analyzer</h1>\n<h2>Project Overview</h2>\n<p>The Neural Image Analyzer is a specialized tool...\n```</p>\n",
+  "rawContent": "\n# Neural Image Analyzer\n\n## Project Overview\n\nThe Neural Image Analyzer is a specialized tool...\n```"
+}

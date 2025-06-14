@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cel",
+    "type": "experiences",
+    "metadata": {
+      "title": "Business Analyst – Executive",
+      "department": "Planning & Strategy",
+      "company": "Creative Engineers Ltd.",
+      "startDate": "2024-02-01T00:00:00.000Z",
+      "endDate": "Present",
+      "tag": "ERP, Business Intelligence, Reporting",
+      "website": "https://cel.com.bd",
+      "image": "https://cel.com.bd/admin/settings_images/logo-1672568456.svg",
+      "summary": "- Leading ERP transformation\n- Developed live reporting systems\n"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "cel copy",
+    "type": "experiences",
+    "metadata": {
+      "title": "Business Analyst – Executive",
+      "department": "Planning & Strategy",
+      "company": "Creative Engineers Ltd.",
+      "startDate": "2023-11-01T00:00:00.000Z",
+      "endDate": "2024-01-31T00:00:00.000Z",
+      "tag": "Full-time, ERP, Analytics",
+      "website": "https://cel.com.bd",
+      "image": "https://cel.com.bd/admin/settings_images/logo-1672568456.svg",
+      "summary": "- Developed department-level performance dashboards using Power BI and Google Sheets.\n- Led monthly reporting efforts for board-level VFO meetings.\n- Optimized data workflows across NI Sales, EI Service, Procurement, and Store.\n"
+    },
+    "content": "",
+    "rawContent": ""
+  }
+]

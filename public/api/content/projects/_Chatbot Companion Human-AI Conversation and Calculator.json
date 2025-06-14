@@ -1,0 +1,17 @@
+{
+  "id": "_Chatbot Companion Human-AI Conversation and Calculator",
+  "type": "projects",
+  "metadata": {
+    "title": "Chatbot Companion: Human-AI Conversation and Calculator",
+    "date": "2022-12-12",
+    "summary": "This is a Human-AI conversation and calculator application. This project features a chatbot interface that allows natural language communication with a human user and implements a calculator feature to facilitate a more interactive conversation.",
+    "image": "https://i.imgur.com/3DFKHI7.png",
+    "tag": "JAVA, Networking, SMTP, Android Studio",
+    "github": "https://gitlab.com/digin13dominic/code-pad.me",
+    "demo": "",
+    "video": "",
+    "featured": "yes"
+  },
+  "content": "",
+  "rawContent": ""
+}

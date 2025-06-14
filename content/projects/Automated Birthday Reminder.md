@@ -1,0 +1,11 @@
+---
+title: "Automated Birthday Reminder"
+date: "2024-05-01"
+summary: "This project provides a Google Apps Script solution for sending email reminders for upcoming birthdays stored in a Google Sheets spreadsheet. The script filters the birthdays to find those occurring within the next 3 days and sends an email containing the filtered data to specified recipients."
+image: "https://i.imgur.com/YzXxvZp.png"
+tag: "Apps Script, Google Sheet, Automation"
+github: "https://github.com/jahidhsanto/Automated_Birthday_Reminder.git"
+demo: ""
+video: ""
+featured: "no"
+---

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "Student Database System",
+    "type": "projects",
+    "metadata": {
+      "title": "Student Database System",
+      "date": "2023-28-06",
+      "summary": "",
+      "image": "https://i.imgur.com/T6FYzXs.png",
+      "tag": "ubuntu, Shell",
+      "github": "https://github.com/jahidhsanto/Student_Database_System",
+      "demo": "",
+      "video": "https://youtu.be/Z7uVrTczTww",
+      "featured": "yes"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Netflix Database Analysis",
+    "type": "projects",
+    "metadata": {
+      "title": "Netflix Database Analysis",
+      "date": "2024-03-31T00:00:00.000Z",
+      "summary": "In this project, I developed a comprehensive Power BI dashboard to analyze the Netflix database. By diving into various aspects of the dataset, I aimed to provide valuable insights into the diverse world of Netflix shows. The dashboard encompasses an array of visualizations that explore show types, ratings, genres, directors, countries, and temporal trends.",
+      "image": "https://i.imgur.com/miIUwJz.jpeg",
+      "tag": "Power BI, Data Analysis, DAX, SQL, Insight Generation, Data Exploration",
+      "github": "https://github.com/jahidhsanto/PowerBI-Netflix-Database-Analysis.git",
+      "demo": null,
+      "video": null,
+      "featured": "yes"
+    },
+    "content": "<h2>🔍 Project Overview</h2>\n<p>The <strong>Netflix Power BI Dashboard</strong> visualizes and explores the content available on Netflix over time. The dataset includes details about movies and TV shows — providing valuable insights about the platform’s global distribution, trends, and user-facing content.</p>\n<hr>\n<h2>📁 Files Included</h2>\n<table>\n<thead>\n<tr>\n<th>File Name</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>NetFlix.pbix</code></td>\n<td>Power BI report file with complete dashboard</td>\n</tr>\n<tr>\n<td><code>netflix_titles.csv</code></td>\n<td>Original dataset in CSV format</td>\n</tr>\n<tr>\n<td><code>netflix_titles.xlsx</code></td>\n<td>Dataset in Excel format</td>\n</tr>\n<tr>\n<td><code>Preview.jpg</code></td>\n<td>Image preview of the Power BI dashboard</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>📌 Features</h2>\n<ul>\n<li>🎬 TV Shows vs Movies breakdown</li>\n<li>📅 Year-wise content trend visualization</li>\n<li>🌍 Country-wise content distribution</li>\n<li>🎭 Genre and rating analysis</li>\n<li>⏱️ Duration comparisons</li>\n<li>🧭 Dynamic filters and slicers</li>\n</ul>\n<hr>\n<h2>📦 Tools &amp; Technologies</h2>\n<ul>\n<li>Power BI Desktop</li>\n<li>DAX (Data Analysis Expressions)</li>\n<li>Power Query</li>\n<li>Excel, CSV</li>\n</ul>\n<hr>\n<h2>🧾 Dataset Source</h2>\n<p>Data sourced from:<br><a href=\"https://www.kaggle.com/datasets/shivamb/netflix-shows\">Kaggle – Netflix Movies and TV Shows</a></p>\n",
+    "rawContent": "\r\n## 🔍 Project Overview\r\n\r\nThe **Netflix Power BI Dashboard** visualizes and explores the content available on Netflix over time. The dataset includes details about movies and TV shows — providing valuable insights about the platform’s global distribution, trends, and user-facing content.\r\n\r\n---\r\n\r\n## 📁 Files Included\r\n\r\n| File Name             | Description                                  |\r\n| --------------------- | -------------------------------------------- |\r\n| `NetFlix.pbix`        | Power BI report file with complete dashboard |\r\n| `netflix_titles.csv`  | Original dataset in CSV format               |\r\n| `netflix_titles.xlsx` | Dataset in Excel format                      |\r\n| `Preview.jpg`         | Image preview of the Power BI dashboard      |\r\n\r\n---\r\n\r\n## 📌 Features\r\n\r\n- 🎬 TV Shows vs Movies breakdown\r\n- 📅 Year-wise content trend visualization\r\n- 🌍 Country-wise content distribution\r\n- 🎭 Genre and rating analysis\r\n- ⏱️ Duration comparisons\r\n- 🧭 Dynamic filters and slicers\r\n\r\n---\r\n\r\n## 📦 Tools & Technologies\r\n\r\n- Power BI Desktop\r\n- DAX (Data Analysis Expressions)\r\n- Power Query\r\n- Excel, CSV\r\n\r\n---\r\n\r\n## 🧾 Dataset Source\r\n\r\nData sourced from:  \r\n[Kaggle – Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)\r\n"
+  },
+  {
+    "id": "Music Store Analysis",
+    "type": "projects",
+    "metadata": {
+      "title": "Music Store Analysis",
+      "date": "2025-06-12",
+      "summary": "This project focuses on performing exploratory data analysis (EDA) on a music store database using SQL and Python. The goal is to uncover business insights about customer behavior, top-performing artists, genres, and sales trends, which can be used to make data-driven decisions.",
+      "image": "https://i.imgur.com/TKNlKkS.png",
+      "tag": "SQL, PostgreSQL, Business Intelligence, Data Science, Insight Generation, Data Exploration",
+      "github": "https://github.com/jahidhsanto/Automated_Birthday_Reminder.git",
+      "demo": "",
+      "video": "",
+      "featured": "yes"
+    },
+    "content": "<h2>🎵 Music Store Analysis – Project Summary</h2>\n<p>This project focuses on performing exploratory data analysis (EDA) on a music store database using SQL and Python. The goal is to uncover business insights about customer behavior, top-performing artists, genres, and sales trends, which can be used to make data-driven decisions.</p>\n<h2>🔍 Key Features:</h2>\n<ul>\n<li><p><strong>SQL Queries</strong> for data extraction from a relational database (e.g., PostgreSQL).</p>\n</li>\n<li><p><strong>Insightful Analysis</strong> on:</p>\n<ul>\n<li>Customer demographics and purchasing behavior</li>\n<li>Sales by genre, artist, album, and location</li>\n<li>Revenue trends and performance indicators</li>\n</ul>\n</li>\n</ul>\n<h2>📈 Skills &amp; Tools Used:</h2>\n<ul>\n<li>SQL (Data Extraction)</li>\n<li>Python (Pandas, Matplotlib, Seaborn)</li>\n<li>Data Cleaning &amp; EDA</li>\n<li>Business Intelligence Fundamentals</li>\n</ul>\n<h2>🧠 Outcome:</h2>\n<p>This project showcases the ability to combine data engineering (SQL) and data analysis (Python) to derive actionable insights for a retail music business.</p>\n",
+    "rawContent": "\r\n## 🎵 Music Store Analysis – Project Summary\r\n\r\nThis project focuses on performing exploratory data analysis (EDA) on a music store database using SQL and Python. The goal is to uncover business insights about customer behavior, top-performing artists, genres, and sales trends, which can be used to make data-driven decisions.\r\n\r\n## 🔍 Key Features:\r\n\r\n- **SQL Queries** for data extraction from a relational database (e.g., PostgreSQL).\r\n- **Insightful Analysis** on:\r\n\r\n  - Customer demographics and purchasing behavior\r\n  - Sales by genre, artist, album, and location\r\n  - Revenue trends and performance indicators\r\n\r\n## 📈 Skills & Tools Used:\r\n\r\n- SQL (Data Extraction)\r\n- Python (Pandas, Matplotlib, Seaborn)\r\n- Data Cleaning & EDA\r\n- Business Intelligence Fundamentals\r\n\r\n## 🧠 Outcome:\r\n\r\nThis project showcases the ability to combine data engineering (SQL) and data analysis (Python) to derive actionable insights for a retail music business.\r\n"
+  },
+  {
+    "id": "Image Detector",
+    "type": "projects",
+    "metadata": {
+      "title": "Image Detector",
+      "date": "2023-06-22",
+      "summary": "This app offers an engaging and educational experience, enabling children to learn while having fun.",
+      "image": "https://i.imgur.com/cjFrXWl.png",
+      "tag": "Android Studio, PyCharm, MobileNet, TensorFlow, Java",
+      "github": "https://github.com/jahidhsanto/Image_Classify_Android_Application",
+      "demo": "",
+      "video": "",
+      "featured": "yes"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Emergency Ambulance Booking App",
+    "type": "projects",
+    "metadata": {
+      "title": "Emergency Ambulance Booking App",
+      "date": "2023-12-12",
+      "summary": "The app has the potential to transform the ambulance booking scenario in Bangladesh by introducing a convenient and efficient platform, thereby improving its current situation.",
+      "image": "https://i.imgur.com/iTFdM2o.png",
+      "tag": "Android Studio, Google Maps API, Firebase, Java",
+      "github": "https://github.com/jahidhsanto/EmergencyAmbulanceBookingApplication",
+      "demo": "",
+      "video": "https://youtu.be/EaG-W-HQR1U",
+      "featured": "yes"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Chatbot Companion Human-AI Conversation and Calculator",
+    "type": "projects",
+    "metadata": {
+      "title": "Chatbot Companion: Human-AI Conversation and Calculator",
+      "date": "2022-12-12",
+      "summary": "This is a Human-AI conversation and calculator application. This project features a chatbot interface that allows natural language communication with a human user and implements a calculator feature to facilitate a more interactive conversation.",
+      "image": "https://i.imgur.com/3DFKHI7.png",
+      "tag": "JAVA, Networking, SMTP, Android Studio",
+      "github": "https://gitlab.com/digin13dominic/code-pad.me",
+      "demo": "",
+      "video": "",
+      "featured": "yes"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Automated Birthday Reminder",
+    "type": "projects",
+    "metadata": {
+      "title": "Automated Birthday Reminder",
+      "date": "2024-05-01",
+      "summary": "This project provides a Google Apps Script solution for sending email reminders for upcoming birthdays stored in a Google Sheets spreadsheet. The script filters the birthdays to find those occurring within the next 3 days and sends an email containing the filtered data to specified recipients.",
+      "image": "https://i.imgur.com/YzXxvZp.png",
+      "tag": "Apps Script, Google Sheet, Automation",
+      "github": "https://github.com/jahidhsanto/Automated_Birthday_Reminder.git",
+      "demo": "",
+      "video": "",
+      "featured": "no"
+    },
+    "content": "",
+    "rawContent": ""
+  }
+]

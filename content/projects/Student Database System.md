@@ -1,0 +1,11 @@
+---
+title: "Student Database System"
+date: "2023-28-06"
+summary: ""
+image: "https://i.imgur.com/T6FYzXs.png"
+tag: "ubuntu, Shell"
+github: "https://github.com/jahidhsanto/Student_Database_System"
+demo: ""
+video: "https://youtu.be/Z7uVrTczTww"
+featured: "yes"
+---

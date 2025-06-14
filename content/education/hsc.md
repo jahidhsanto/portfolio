@@ -1,0 +1,10 @@
+---
+image: https://sbngbhs.edu.bd/assets/img/new_logo.webp
+title: Higher Secondary Certificate (HSC)
+date: 2017/01/01
+endDate: 2019/10/01
+institution: Sher - E - Bangla Nagar Govt' Boys' High School
+department: Science
+result: CGPA 3.33 out of 5.00
+website: https://www.sbngbhs.edu.bd/
+---

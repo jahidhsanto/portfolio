@@ -1,0 +1,325 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+body {
+  @apply bg-light text-text leading-relaxed;
+}
+
+/* Card styles */
+.card {
+  @apply relative overflow-hidden rounded-lg bg-white px-6 py-8 shadow-sm transition-all duration-300;
+}
+
+.card:hover {
+  @apply transform -translate-y-1 shadow-md;
+}
+
+/* Typography */
+.title {
+  @apply text-4xl font-bold tracking-tight text-dark leading-tight;
+}
+
+.title span {
+  @apply text-primary relative z-10;
+}
+
+.title span::after {
+  content: '';
+  @apply absolute w-full h-2.5 bg-accent/[0.3] -bottom-1 left-0 -z-10 transition-all duration-300;
+}
+
+.subtitle {
+  @apply text-lg font-semibold text-secondary relative inline-block;
+}
+
+.subtitle::after {
+  content: '';
+  @apply absolute w-12 h-0.5 bg-accent right-[-70px] top-1/2;
+}
+
+.description {
+  @apply text-text-light text-lg mb-8 max-w-[90%];
+}
+
+/* Button styles */
+.button-primary, .cta-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-primary text-white px-8 py-3 font-medium transition-all duration-300 shadow-md;
+}
+
+.button-primary:hover, .cta-primary:hover {
+  @apply bg-secondary transform -translate-y-0.5 shadow-lg;
+}
+
+.button-secondary, .cta-secondary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border-2 border-primary text-primary px-8 py-3 font-medium transition-all duration-300;
+}
+
+.button-secondary:hover, .cta-secondary:hover {
+  @apply bg-gray-100 transform -translate-y-0.5;
+}
+
+.contact-btn {
+  @apply inline-block bg-primary text-white rounded-full px-6 py-2 font-medium transition-all duration-300;
+}
+
+.contact-btn:hover {
+  @apply bg-secondary transform -translate-y-0.5 shadow-lg;
+}
+
+/* Navigation styles */
+.nav-link {
+  @apply text-text relative transition-all duration-300;
+}
+
+.nav-link:hover {
+  @apply text-secondary;
+}
+
+.nav-link::after, .nav-link-active::after {
+  content: '';
+  @apply absolute w-0 h-0.5 bg-secondary bottom-0 left-0 transition-all duration-300;
+}
+
+.nav-link:hover::after {
+  @apply w-full;
+}
+
+.nav-link-active {
+  @apply text-primary relative;
+}
+
+.nav-link-active::after {
+  @apply w-full bg-primary;
+}
+
+/* Social links */
+.social-link {
+  @apply flex items-center justify-center w-9 h-9 rounded-full bg-white text-text shadow-sm transition-all duration-300;
+}
+
+.social-link:hover {
+  @apply text-primary transform -translate-y-0.5 shadow-md;
+}
+
+/* Skill card styles */
+.skill-card {
+  @apply relative overflow-hidden bg-white rounded-lg p-6 text-center shadow-md transition-all duration-300;
+}
+
+.skill-card:hover {
+  @apply transform -translate-y-1 shadow-lg;
+}
+
+.skill-card::before {
+  content: '';
+  @apply absolute w-32 h-32 bg-secondary/[0.05] rounded-full -top-16 -right-16 z-0;
+}
+
+.skill-icon {
+  @apply text-primary text-4xl mb-4 relative z-10;
+}
+
+.skill-name {
+  @apply font-semibold mb-2 text-dark;
+}
+
+.skill-level-bar {
+  @apply w-full h-1 bg-gray-100 rounded-full overflow-hidden;
+}
+
+.skill-level-progress {
+  @apply h-full bg-accent rounded-full;
+}
+
+.skill-experience {
+  @apply text-xs text-text-light mt-1 text-right;
+}
+
+/* Section styles */
+.section {
+  @apply py-16 bg-white;
+}
+
+.section-alt {
+  @apply py-16 bg-light;
+}
+
+.section-header {
+  @apply text-center mb-8;
+}
+
+/* Animation utility classes */
+.animate-fadeInUp {
+  @apply opacity-0;
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+.delay-500 { animation-delay: 0.5s; }
+
+/* Hero section styles */
+.hero {
+  @apply relative min-h-screen flex items-center bg-light overflow-hidden pt-20;
+}
+
+.hero::before {
+  content: '';
+  @apply absolute -top-1/2 -right-10 w-4/5 h-[180%] bg-gradient-to-br from-primary/[0.03] to-accent/[0.06] z-0;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  animation: morphing 15s ease-in-out infinite;
+}
+
+/* Form styles */
+.form-input {
+  @apply w-full px-4 py-3 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary text-text;
+}
+
+.form-label {
+  @apply block text-sm font-medium text-text mb-2;
+}
+
+/* Project card styles */
+.project-card {
+  @apply relative overflow-hidden rounded-lg bg-white p-6 shadow-sm transition-all duration-300;
+}
+
+.project-card:hover {
+  @apply transform -translate-y-1 shadow-md;
+}
+
+/* Toolkit category buttons */
+.category-btn {
+  @apply bg-transparent text-text-light px-6 py-2 font-medium cursor-pointer transition-all duration-300 rounded-full;
+}
+
+.category-btn.active {
+  @apply bg-primary text-white shadow-md;
+}
+
+.category-btn:hover:not(.active) {
+  @apply bg-gray-100 text-text;
+}
+
+/* Footer styles */
+.footer {
+  @apply bg-white py-12 border-t border-gray-200;
+}
+
+/* Add these missing hero-specific styles to your CSS file */
+
+/* Container */
+.container {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Hero Content */
+.hero-content {
+  @apply flex flex-col lg:flex-row items-center justify-between relative z-10;
+}
+
+.hero-text {
+  @apply flex-1 max-w-xl mb-12 lg:mb-0;
+}
+
+.hero-image {
+  @apply flex-1 flex justify-center items-center;
+}
+
+/* Avatar */
+.avatar {
+  @apply w-[360px] h-[360px] rounded-lg overflow-hidden shadow-xl relative transition-all duration-300;
+}
+
+.avatar::before {
+  content: '';
+  @apply absolute -top-2.5 -left-2.5 right-2.5 bottom-2.5 border-2 border-accent rounded-lg -z-10 transition-all duration-300;
+}
+
+.avatar:hover {
+  @apply -translate-y-1;
+}
+
+.avatar:hover::before {
+  @apply -top-4 -left-4;
+}
+
+.avatar img {
+  @apply w-full h-full object-cover;
+}
+
+/* Social links */
+.social-links {
+  @apply flex gap-4 mt-8;
+}
+
+/* Animation keyframes */
+@keyframes morphing {
+  0% {
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  }
+  25% {
+    border-radius: 58% 42% 75% 25% / 76% 46% 54% 24%;
+  }
+  50% {
+    border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
+  }
+  75% {
+    border-radius: 33% 67% 58% 42% / 63% 68% 32% 37%;
+  }
+  100% {
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1024px) {
+  .hero-content {
+    @apply flex-col text-center;
+  }
+  
+  .hero-text {
+    @apply mx-auto mb-12;
+  }
+  
+  .section-subtitle::after {
+    @apply hidden;
+  }
+  
+  .cta-buttons {
+    @apply justify-center;
+  }
+  
+  .social-links {
+    @apply justify-center;
+  }
+  
+  .description {
+    @apply mx-auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .avatar {
+    @apply w-[280px] h-[280px];
+  }
+  
+  h1 {
+    @apply text-3xl;
+  }
+}

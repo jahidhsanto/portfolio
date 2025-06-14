@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Extra Curricular Activity - 02",
+    "type": "certificate",
+    "metadata": {
+      "title": "Joint Treasurer",
+      "issuer": "Green University Computer Club (GUCC)",
+      "category": "Extra Curricular Activity",
+      "image": "https://i.imgur.com/FscqMte.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Extra Curricular Activity - 01",
+    "type": "certificate",
+    "metadata": {
+      "title": "Joint Information Secretary",
+      "issuer": "Green University Computer Club (GUCC)",
+      "category": "Extra Curricular Activity",
+      "image": "https://i.imgur.com/fICaspL.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "CSE Carnival 2021 - IDPC",
+    "type": "certificate",
+    "metadata": {
+      "title": "IDPC | 3rd Place",
+      "issuer": "Green University Computer Club (GUCC)",
+      "date": "2021-11-07T00:00:00.000Z",
+      "category": "CSE Carnival",
+      "image": "https://i.imgur.com/lmoIKJp.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "CSE Carnival 2020 - IDPC",
+    "type": "certificate",
+    "metadata": {
+      "title": "IDPC | 2nd Place",
+      "issuer": "Green University Computer Club (GUCC)",
+      "date": "2020-12-07T00:00:00.000Z",
+      "category": "CSE Carnival",
+      "image": "https://i.imgur.com/LnPceUa.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "CSE Carnival 2020 - ICT",
+    "type": "certificate",
+    "metadata": {
+      "title": "Quiz Competition | 1st Place",
+      "issuer": "Green University Computer Club (GUCC)",
+      "date": "2020-12-07T00:00:00.000Z",
+      "category": "CSE Carnival",
+      "image": "https://i.imgur.com/lPJ7aIT.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Business Intelligence Analyst Bootcamp",
+    "type": "certificate",
+    "metadata": {
+      "title": "Business Analysts",
+      "issuer": "AKAADEMY",
+      "date": "2024-03-05T00:00:00.000Z",
+      "category": "Business Intelligence",
+      "image": "https://i.imgur.com/xbYdbEw.png",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Award - 02",
+    "type": "certificate",
+    "metadata": {
+      "title": "Best Student Paper Award",
+      "issuer": "10th NSysS 2023 | BUET",
+      "date": "2023-12-23T00:00:00.000Z",
+      "category": "Award",
+      "image": "https://i.imgur.com/wSqXZcm.png",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "Award - 01",
+    "type": "certificate",
+    "metadata": {
+      "title": "Dean’s Award",
+      "issuer": "Green University of Bangladesh",
+      "date": "2022-09-07T00:00:00.000Z",
+      "category": "Award",
+      "image": "https://i.imgur.com/JqcTnlS.jpeg",
+      "link": null
+    },
+    "content": "",
+    "rawContent": ""
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "fds",
+  "type": "projects",
+  "metadata": {
+    "title": "Automating Secure Infrastructure with Ansible: Managing SSH, Sudoers, and User Access Control",
+    "date": "2021-12-12",
+    "summary": "Automating Secure Infrastructure with Ansible streamlines SSH key management, user provisioning, and sudoers configuration to enhance security and efficiency. This project ensures password-less authentication, centralized sudo monitoring, and safe system administration through Infrastructure as Code (IaC). 🚀",
+    "image": "https://raw.githubusercontent.com/digin1/web-images/main/ansible.png",
+    "tag": "ansible, ubuntu",
+    "featured": "yes"
+  },
+  "content": "",
+  "rawContent": ""
+}
