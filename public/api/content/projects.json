@@ -42,7 +42,7 @@
       "summary": "This project focuses on performing exploratory data analysis (EDA) on a music store database using SQL and Python. The goal is to uncover business insights about customer behavior, top-performing artists, genres, and sales trends, which can be used to make data-driven decisions.",
       "image": "https://i.imgur.com/TKNlKkS.png",
       "tag": "SQL, PostgreSQL, Business Intelligence, Data Science, Insight Generation, Data Exploration",
-      "github": "https://github.com/jahidhsanto/Automated_Birthday_Reminder.git",
+      "github": "https://github.com/jahidhsanto/Music_Store_Analysis",
       "demo": "",
       "video": "",
       "featured": "yes"

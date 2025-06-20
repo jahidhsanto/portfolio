@@ -68,6 +68,76 @@
     "rawContent": ""
   },
   {
+    "id": "coursera - 05",
+    "type": "certificate",
+    "metadata": {
+      "title": "Business Analysis & Process Management",
+      "issuer": "Coursera Project Network",
+      "date": "2025-06-20T00:00:00.000Z",
+      "category": "Coursera",
+      "image": "https://i.imgur.com/VOF8kZ3.jpeg",
+      "link": "https://coursera.org/share/b1dd5ad108b840c18127906d98bc0cb8"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "coursera - 04",
+    "type": "certificate",
+    "metadata": {
+      "title": "Get started with Asana",
+      "issuer": "Coursera Project Network",
+      "date": "2023-07-19T00:00:00.000Z",
+      "category": "Coursera",
+      "image": "https://i.imgur.com/THghuO0.jpeg",
+      "link": "https://coursera.org/share/9b053c16bd51c347cd990a31332a83f1"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "coursera - 03",
+    "type": "certificate",
+    "metadata": {
+      "title": "Foundations: Data, Data, Everywhere",
+      "issuer": "Google",
+      "date": "2023-09-30T00:00:00.000Z",
+      "category": "Coursera",
+      "image": "https://i.imgur.com/9YjjcJ1.jpeg",
+      "link": "https://coursera.org/share/9bb16dcafb1f0e81d76bef20603fb417"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "coursera - 02",
+    "type": "certificate",
+    "metadata": {
+      "title": "Ask Questions to Make Data-Driven Decisions",
+      "issuer": "Google",
+      "date": "2023-10-16T00:00:00.000Z",
+      "category": "Coursera",
+      "image": "https://i.imgur.com/ZgXhRz7.jpeg",
+      "link": "https://coursera.org/share/a0cc5b653c5abf6c9b9f06b485d3774d"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
+    "id": "coursera - 01",
+    "type": "certificate",
+    "metadata": {
+      "title": "Getting Started with Microsoft Excel",
+      "issuer": "Coursera Project Network",
+      "date": "2023-07-19T00:00:00.000Z",
+      "category": "Coursera",
+      "image": "https://i.imgur.com/ZlcebJY.jpeg",
+      "link": "https://coursera.org/share/aed8756cb245e5ffe106f5d2964f9f79"
+    },
+    "content": "",
+    "rawContent": ""
+  },
+  {
     "id": "Business Intelligence Analyst Bootcamp",
     "type": "certificate",
     "metadata": {
