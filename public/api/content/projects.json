@@ -85,6 +85,23 @@
     "rawContent": ""
   },
   {
+    "id": "Electric Vehicle Data Analysis",
+    "type": "projects",
+    "metadata": {
+      "title": "Electric Vehicle Data Analysis",
+      "date": "2025-06-22T00:00:00.000Z",
+      "summary": "This Tableau dashboard explores electric vehicle adoption trends in Washington State. It provides interactive analysis based on make, model year, electric range, location, and vehicle eligibility, helping visualize the shift toward cleaner transportation.",
+      "image": "https://i.imgur.com/Mgzf1XI.png",
+      "tag": "Tableau, Data Visualization, Dashboard, Electric Vehicles, Data Storytelling, Geographic Analysis",
+      "github": "https://github.com/jahidhsanto/Tableau-Electric-Vehicle-Data-Analysis",
+      "demo": "https://public.tableau.com/app/profile/md.jahid.hassan/viz/ElectricVehicleDataAnalysis_17505309845910/Dashboard1?publish=yes",
+      "video": null,
+      "featured": "yes"
+    },
+    "content": "<h2>🔍 Project Overview</h2>\n<p>The <strong>Electric Vehicle Data Analysis Dashboard</strong> was developed using Tableau Public to analyze EV registration data from Washington State. It provides a visual summary of electric vehicle growth and adoption patterns, supporting decisions related to energy infrastructure, clean energy policies, and EV promotion strategies.</p>\n<hr>\n<h2>📁 Files Included</h2>\n<table>\n<thead>\n<tr>\n<th>File Name</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ElectricVehicleDashboard.twb</code></td>\n<td>Tableau workbook with all dashboard visuals</td>\n</tr>\n<tr>\n<td><code>Electric_Vehicle_Population_Data.csv</code></td>\n<td>Source dataset containing EV registrations</td>\n</tr>\n<tr>\n<td><code>dashboard.png</code></td>\n<td>Dashboard image preview for reference</td>\n</tr>\n<tr>\n<td><code>README.md</code></td>\n<td>Full project description and usage instructions</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>📌 Features</h2>\n<ul>\n<li>🚘 Total registered EVs by type, make, and model year</li>\n<li>🌎 Location-based EV distribution using geo-coordinates</li>\n<li>📊 Range, price, and eligibility comparisons</li>\n<li>📅 Interactive year filters and dynamic charts</li>\n<li>🧭 Clean, user-centered dashboard layout</li>\n</ul>\n<hr>\n<h2>📦 Tools &amp; Technologies</h2>\n<ul>\n<li>Tableau Public</li>\n<li>CSV Data Analysis</li>\n<li>Calculated Fields &amp; Filters</li>\n<li>Geographic Mapping</li>\n<li>Dashboard Design Best Practices</li>\n</ul>\n<hr>\n<h2>🧾 Dataset Source</h2>\n<p>Data sourced from:<br><a href=\"https://catalog.data.gov/dataset/electric-vehicle-population-data\">Washington State Government – Electric Vehicle Population</a></p>\n",
+    "rawContent": "\r\n## 🔍 Project Overview\r\n\r\nThe **Electric Vehicle Data Analysis Dashboard** was developed using Tableau Public to analyze EV registration data from Washington State. It provides a visual summary of electric vehicle growth and adoption patterns, supporting decisions related to energy infrastructure, clean energy policies, and EV promotion strategies.\r\n\r\n---\r\n\r\n## 📁 Files Included\r\n\r\n| File Name                              | Description                                     |\r\n| -------------------------------------- | ----------------------------------------------- |\r\n| `ElectricVehicleDashboard.twb`         | Tableau workbook with all dashboard visuals     |\r\n| `Electric_Vehicle_Population_Data.csv` | Source dataset containing EV registrations      |\r\n| `dashboard.png`                        | Dashboard image preview for reference           |\r\n| `README.md`                            | Full project description and usage instructions |\r\n\r\n---\r\n\r\n## 📌 Features\r\n\r\n- 🚘 Total registered EVs by type, make, and model year\r\n- 🌎 Location-based EV distribution using geo-coordinates\r\n- 📊 Range, price, and eligibility comparisons\r\n- 📅 Interactive year filters and dynamic charts\r\n- 🧭 Clean, user-centered dashboard layout\r\n\r\n---\r\n\r\n## 📦 Tools & Technologies\r\n\r\n- Tableau Public\r\n- CSV Data Analysis\r\n- Calculated Fields & Filters\r\n- Geographic Mapping\r\n- Dashboard Design Best Practices\r\n\r\n---\r\n\r\n## 🧾 Dataset Source\r\n\r\nData sourced from:  \r\n[Washington State Government – Electric Vehicle Population](https://catalog.data.gov/dataset/electric-vehicle-population-data)\r\n"
+  },
+  {
     "id": "Chatbot Companion Human-AI Conversation and Calculator",
     "type": "projects",
     "metadata": {
