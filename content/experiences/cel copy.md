@@ -11,4 +11,5 @@ summary: |
   - Developed department-level performance dashboards using Power BI and Google Sheets.
   - Led monthly reporting efforts for board-level VFO meetings.
   - Optimized data workflows across NI Sales, EI Service, Procurement, and Store.
+  - Loading...
 ---
